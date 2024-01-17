@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE17CAAE-3F46-4DCE-BE09-D4E9A5042BD8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF18D60B-DB84-486F-8A0A-DD59CC75F5E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Priyanka_Vithani_FE_8875646/Controller/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "convertAddress(cityName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF18D60B-DB84-486F-8A0A-DD59CC75F5E1 - b8325e68634ed0c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Priyanka_Vithani_FE_8875646.NewsModel, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.NewsViewController.convertAddress(cityName: Swift.String) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "3112">
+               </Location>
+               <Location
+                  uuid = "BF18D60B-DB84-486F-8A0A-DD59CC75F5E1 - b8325e68634ed0c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Priyanka_Vithani_FE_8875646.NewsModel, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.NewsViewController.convertAddress(cityName: Swift.String) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "BF18D60B-DB84-486F-8A0A-DD59CC75F5E1 - b8325e68634ecf5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Priyanka_Vithani_FE_8875646.NewsModel, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.NewsViewController.convertAddress(cityName: Swift.String) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EAC231E-2D0C-42B1-A4E7-42738B9821D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Priyanka_Vithani_FE_8875646/Controller/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5EAC231E-2D0C-42B1-A4E7-42738B9821D9 - 77cd8dcd6370504b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Priyanka_Vithani_FE_8875646.NewsModel, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.NewsViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "3292">
+               </Location>
+               <Location
+                  uuid = "5EAC231E-2D0C-42B1-A4E7-42738B9821D9 - 77cd8dcd6370504b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Priyanka_Vithani_FE_8875646.NewsModel, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.NewsViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "636">
+               </Location>
+               <Location
+                  uuid = "5EAC231E-2D0C-42B1-A4E7-42738B9821D9 - 77cd8dcd637050aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Priyanka_Vithani_FE_8875646.NewsModel, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.NewsViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "704">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "901F04D0-5B88-49B8-A72F-D83A6C24C1D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Priyanka_Vithani_FE_8875646/Controller/HistoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "weatherButtonTapped(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0269D84A-7D63-4E01-AFC4-809927AAEBB2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Priyanka_Vithani_FE_8875646/Controller/HistoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "weatherButtonTapped(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99B12974-2ABD-4266-93CE-2F2475517061"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "locationManager(_:didFailWithError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99B12974-2ABD-4266-93CE-2F2475517061 - 1e686074aa8dd3f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Priyanka_Vithani_FE_8875646.MapViewController.locationManager(_: __C.CLLocationManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "99B12974-2ABD-4266-93CE-2F2475517061 - 1e686074aa8dd3d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Priyanka_Vithani_FE_8875646.MapViewController.locationManager(_: __C.CLLocationManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E9C292B-D196-4AF2-BA90-A55FF9DC60AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E9C292B-D196-4AF2-BA90-A55FF9DC60AD - 84b6592a2cbc5204"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "3E9C292B-D196-4AF2-BA90-A55FF9DC60AD - 84b6592a2cbc525b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "mapThis()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD - 1722cff34e4d2ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKDirectionsResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.mapThis() -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "2272">
+               </Location>
+               <Location
+                  uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD - 1722cff34e4d2ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKDirectionsResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.mapThis() -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "2832">
+               </Location>
+               <Location
+                  uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD - 1722cff34e4d2ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKDirectionsResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.mapThis() -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "3268">
+               </Location>
+               <Location
+                  uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD - 1722cff34e4d2ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKDirectionsResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.mapThis() -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "2972">
+               </Location>
+               <Location
+                  uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD - 1722cff34e4d2ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKDirectionsResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.mapThis() -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "3476">
+               </Location>
+               <Location
+                  uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD - 1722cff34e4d2ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKDirectionsResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.mapThis() -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "2764">
+               </Location>
+               <Location
+                  uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD - 1722cff34e4d2ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKDirectionsResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.mapThis() -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "2820">
+               </Location>
+               <Location
+                  uuid = "BBF5F4C7-DEC5-4B80-95E3-B9A7246A21AD - 1722cff34e4d2ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.MKDirectionsResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Priyanka_Vithani_FE_8875646.MapViewController.mapThis() -&gt; ()"
+                  moduleName = "Priyanka_Vithani_FE_8875646"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyankavithani/Documents/ConestogaStudy/iOS/Priyanka_Vithani_FE_8875646/Priyanka_Vithani_FE_8875646/Controller/MapViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "3028">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
