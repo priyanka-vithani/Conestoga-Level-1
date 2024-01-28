@@ -1,0 +1,81 @@
+@page
+@model PersonInfo
+@{
+ViewData["Title"] = "Person Information";
+}
+<head>
+   <!-- Styling the form -->
+    <style>     
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        input,
+        select {
+            width: 100%;
+            padding: 10px 5px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background-color: rgb(36, 4, 213);
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<h2>Person Information</h2>
+<!-- Form for entering person information -->
+<form method="post">
+   <div>
+      <label for="FirstName">FirstName</label>
+   </div>
+   <div>
+      <input type="text" id="FirstName" name="FirstName" required />
+   </div>
+   <div> 
+      <label for="LastName">LastName</label>
+   </div>
+   <div>
+      <input type="text" id="LastName" name="LastName" required />
+   </div>
+   <div>
+       <label for="BirthDate">BirthDate:</label>
+   </div>
+       <!-- Use type="date" for date picker -->
+   <div>
+      <input type="date" id="BirthDate" name="BirthDate" required placeholder="yyyy-mm-dd" data-date-format="yyyy-mm-dd"/>
+   </div>
+   <div>
+      <label for="Address">Address</label>
+   </div>
+   <div>
+      <input type="text" id="Address" name="Address" required />
+   </div>
+   <div>
+      <label for="City">City</label>
+   </div>
+   <div>
+      <input type="text" id="City" name="City" required />
+   </div>
+   <div>
+      <label for="Country">Country</label>
+   </div>
+   <div>
+      <input type="text" id="Country" name="Country" required />
+   </div>
+   <div>
+      <label for="Province">Province</label>
+   </div>
+   <div>
+      <input type="text" id="Province" name="Province" required />
+   </div>
+       <!-- Submit button -->
+   <div>
+      <button type="submit">Save</button>
+   </div>
+</form>

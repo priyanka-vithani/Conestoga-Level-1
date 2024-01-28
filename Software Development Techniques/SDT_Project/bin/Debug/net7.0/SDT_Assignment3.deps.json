@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SDT_Assignment3/1.0.0": {
+        "runtime": {
+          "SDT_Assignment3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDT_Assignment3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

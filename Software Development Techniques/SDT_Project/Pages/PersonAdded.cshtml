@@ -1,0 +1,14 @@
+@page
+@model PersonAdded
+
+<h2>Person Added</h2>
+<!-- Display submitted person information -->
+<div>
+    <p><strong>First Name:</strong> @Model.person.firstName</p>
+    <p><strong>Last Name:</strong>  @Model.person.lastName</p>
+    <p><strong>Birth Date:</strong> @(Model.person.birthDate.HasValue ? Model.person.birthDate.Value.ToString("yyyy-MM-dd") : "")</p>
+    <p><strong>Address:</strong>    @Model.person.address</p>
+    <p><strong>City:</strong>       @Model.person.city</p>
+    <p><strong>Country:</strong>    @Model.person.country</p>
+    <p><strong>Province:</strong>   @Model.person.Province</p>
+</div>

@@ -1,0 +1,45 @@
+@page
+@model PersonList
+@{
+    ViewData["Title"] = "Person List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (Model.People.Count > 0)
+{
+       <!-- table to list the people data from json -->
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Date of Birth</th>
+                <th>Address</th>
+                <th>City</th>
+                <th>Country</th>
+                <th>Province</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var person in Model.People)
+            {
+                <tr>
+                    <td>@person.firstName</td>
+                    <td>@person.lastName</td>
+                    <td>@(person.birthDate.HasValue ? person.birthDate.Value.ToString("yyyy-MM-dd") : "")</td>
+                    <td>@person.address</td>
+                    <td>@person.city</td>
+                    <td>@person.country</td>
+                    <td>@person.Province</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>There are no people.</p>
+}
+<a asp-page="PersonInfo">Create a new user</a>

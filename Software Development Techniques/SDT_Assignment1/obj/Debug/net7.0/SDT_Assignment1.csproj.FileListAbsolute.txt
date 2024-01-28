@@ -1,0 +1,14 @@
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/SDT_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/SDT_Assignment1.AssemblyInfoInputs.cache
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/SDT_Assignment1.AssemblyInfo.cs
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/SDT_Assignment1.csproj.CoreCompileInputs.cache
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/bin/Debug/net7.0/SDT_Assignment1
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/bin/Debug/net7.0/SDT_Assignment1.deps.json
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/bin/Debug/net7.0/SDT_Assignment1.runtimeconfig.json
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/bin/Debug/net7.0/SDT_Assignment1.dll
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/bin/Debug/net7.0/SDT_Assignment1.pdb
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/SDT_Assignment1.dll
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/refint/SDT_Assignment1.dll
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/SDT_Assignment1.pdb
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/SDT_Assignment1.genruntimeconfig.cache
+/Users/priyankavithani/Documents/ConestogaStudy/SDT/SDT_Assignment1/obj/Debug/net7.0/ref/SDT_Assignment1.dll
