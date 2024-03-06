@@ -26,3 +26,17 @@
 /Users/priyankavithani/Desktop/Assignment2/obj/Debug/net7.0/Assignment2.pdb
 /Users/priyankavithani/Desktop/Assignment2/obj/Debug/net7.0/Assignment2.genruntimeconfig.cache
 /Users/priyankavithani/Desktop/Assignment2/obj/Debug/net7.0/ref/Assignment2.dll
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/bin/Debug/net7.0/Assignment2
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/bin/Debug/net7.0/Assignment2.deps.json
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/bin/Debug/net7.0/Assignment2.runtimeconfig.json
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/bin/Debug/net7.0/Assignment2.dll
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/bin/Debug/net7.0/Assignment2.pdb
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfoInputs.cache
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/Assignment2.AssemblyInfo.cs
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/Assignment2.dll
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/refint/Assignment2.dll
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/Assignment2.pdb
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/Assignment2.genruntimeconfig.cache
+/Users/priyankavithani/Documents/ConestogaStudy/Conestoga-Level-1/Software Development Techniques/Assignment2/obj/Debug/net7.0/ref/Assignment2.dll
